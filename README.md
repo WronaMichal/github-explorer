@@ -26,7 +26,7 @@ This project provide api to list repositories from github for specific user by h
 
 #### Get user github repositories `http://localhost:7000/v1/api/repository/get?username={username}`
 
-
+![image](https://github.com/WronaMichal/Assets/blob/main/Postman.png)
 
 ## Functional and non-functional requirements
 
@@ -97,7 +97,7 @@ The project has been completed, all functional and non-functional requirements h
 
 ## Resources
 
-📦 Postamn Collection to test API V1:   
+📦 Postamn Collection to test API V1:  [github-explorer.postman_collection.zip](https://github.com/WronaMichal/Assets/blob/4097553ca490a15379821ce9fe9b0f0e8a42e12b/github-explorer.postman_collection.zip) \
 🧪 Swagger: http://localhost:7000/swagger-ui/index.html 
 
 ## Contact
